@@ -1,0 +1,19 @@
+For the past few days, I've been denied pushing exercises to the branch.
+
+I get the following error:
+
+"ERROR: Permission to TheOdinProject/css-exercises.git denied to Shimazaky80.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists."
+
+I was pushing tasks before, but I can't anymore. I checked all my keys, which are both linked to Github.
+
+Anybody willing to help with a fix?
+
+I will appreciate it.
+
+Regards;
+
+Jose
